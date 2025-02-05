@@ -1,23 +1,15 @@
-# Cybersecurity Scripts Repository 🔒🚀
+# Cybersecurity Scripts Collection
 
-Welcome to my **Cybersecurity Scripts Repository**!  
-This repository contains various scripts I have created while learning about **cybersecurity, networking, and ethical hacking**.  
+## Overview
+This repository is a collection of Python scripts I've developed during my cybersecurity journey. These scripts cover various aspects of cybersecurity, including domain validation and network security testing. They serve as both practical tools and learning resources for understanding different cybersecurity concepts.
 
-⚠️ **Disclaimer**: These scripts are strictly for **educational and research purposes**.  
-You must have **explicit permission** before running these scripts on any system that you do not own.
+## Scripts
 
----
+### check_domains_validity.py
+This script checks the validity of a list of domains. It verifies if the domains are active and properly configured. This can be useful for network administrators or security professionals who need to validate domain configurations.
 
-## 📜 Scripts in This Repository
+### dos_attack.py
+This script simulates a Distributed Denial of Service (DDoS) attack. It is intended for educational and testing purposes only, to help understand how such attacks work and how to defend against them. Please use this script responsibly and only in controlled environments with proper authorization.
 
-🔹 **check_domains_validity.py** – Checks if a domain or IP is reachable over HTTP and HTTPS.  
+### Soon others will come
 
-🔹 **ddos_attack.py** – Simulates a basic DoS (Denial-of-Service) test by sending multiple HTTP requests to a target.  
-
-📌 **For usage instructions and further details, please refer to the comments inside each script.**  
-
----
-
-If you have suggestions, feel free to open an **issue** or contribute! 🎯
-
----
