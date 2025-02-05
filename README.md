@@ -11,5 +11,8 @@ This script checks the validity of a list of domains. It verifies if the domains
 ### dos_attack.py
 This script simulates a Distributed Denial of Service (DDoS) attack. It is intended for educational and testing purposes only, to help understand how such attacks work and how to defend against them. Please use this script responsibly and only in controlled environments with proper authorization.
 
+### gobuster_clone.py
+This script simulates a directory enumeration tool similar to Gobuster. It is intended for educational and testing purposes only, to help identify accessible or hidden web pages and directories on a target server. This script can assist in understanding how attackers discover vulnerable resources and how to secure them. Please use this script responsibly and only on domains you have permission to test.
+
 ### Soon others will come
 
