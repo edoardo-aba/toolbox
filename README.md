@@ -14,5 +14,11 @@ This script simulates a Distributed Denial of Service (DDoS) attack. It is inten
 ### gobuster_clone.py
 This script simulates a directory enumeration tool similar to Gobuster. It is intended for educational and testing purposes only, to help identify accessible or hidden web pages and directories on a target server. This script can assist in understanding how attackers discover vulnerable resources and how to secure them. Please use this script responsibly and only on domains you have permission to test.
 
+### cmd.php
+php script that only prints the system id, use it to test, if the uploading file works fine, and the machine consumes it
+
+### rvsh.php
+reverse php shell that allows the attacker to gain connection over the machine, first: nc -lvpn <port> on your machine, then run the script on the target machine and get the reverse shell
+
 ### Soon others will come
 
